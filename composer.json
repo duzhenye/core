@@ -1,0 +1,17 @@
+{
+    "name": "duzhenye/core",
+    "description": "A dianyou framework app to get your new project up and running as quickly as possible",
+    "keywords": ["restapi","framework"],
+    "homepage": "https://github.com/duzhenye/core",
+    "license": "MIT",
+
+    "require": {
+        "php": "^7.4|^8.0|^8.1|^8.2|^8.3",
+        "ext-json": "*"
+    },
+    "autoload": {
+        "files": [
+            "autoload.php"
+        ]
+    }
+}
